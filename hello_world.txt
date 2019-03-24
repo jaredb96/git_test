@@ -1,1 +1,1 @@
-This is Jared's first (ish) git project!
+Hello World!
